@@ -1,0 +1,63 @@
+c:\users\mike\documents\visual studio 2010\Projects\pruebamysql\pruebamysql\bin\Debug\pruebamysql.exe
+c:\users\mike\documents\visual studio 2010\Projects\pruebamysql\pruebamysql\bin\Debug\pruebamysql.pdb
+c:\users\mike\documents\visual studio 2010\Projects\pruebamysql\pruebamysql\obj\x86\Debug\pruebamysql.Form1.resources
+c:\users\mike\documents\visual studio 2010\Projects\pruebamysql\pruebamysql\obj\x86\Debug\pruebamysql.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2010\Projects\pruebamysql\pruebamysql\obj\x86\Debug\pruebamysql.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2010\Projects\pruebamysql\pruebamysql\obj\x86\Debug\pruebamysql.exe
+c:\users\mike\documents\visual studio 2010\Projects\pruebamysql\pruebamysql\obj\x86\Debug\pruebamysql.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql\pruebamysql\obj\x86\Debug\pruebamysql.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\obj\x86\Debug\pruebamysql.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\obj\x86\Debug\pruebamysql.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\bin\Debug\pruebamysql.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\bin\Debug\pruebamysql.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\obj\x86\Debug\pruebamysql.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\obj\x86\Debug\pruebamysql.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\obj\x86\Debug\pruebamysql.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\obj\x86\Debug\pruebamysql.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 2\pruebamysql\obj\x86\Debug\pruebamysql.Form2.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\obj\x86\Debug\pruebamysql.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\obj\x86\Debug\pruebamysql.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\bin\Debug\pruebamysql.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\bin\Debug\pruebamysql.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\obj\x86\Debug\pruebamysql.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\obj\x86\Debug\pruebamysql.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\obj\x86\Debug\pruebamysql.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebamysql - copia 3\pruebamysql\obj\x86\Debug\pruebamysql.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\bin\Debug\pruebamysql.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\bin\Debug\pruebamysql.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.exe
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.pdb
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\bin\Debug\pruebamysql.exe
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\bin\Debug\pruebamysql.pdb
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Form1.resources
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Properties.Resources.resources
+C:\Users\Mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.exe
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.pdb
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\bin\Debug\pruebamysql.exe
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\bin\Debug\pruebamysql.pdb
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Form1.resources
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Properties.Resources.resources
+C:\Users\Mike\Desktop\pruebasbd\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csproj.GenerateResource.Cache
+C:\Users\mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csprojAssemblyReference.cache
+C:\Users\mike\Desktop\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csproj.CoreCompileInputs.cache
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csprojAssemblyReference.cache
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Form1.resources
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.Properties.Resources.resources
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csproj.GenerateResource.cache
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csproj.CoreCompileInputs.cache
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.exe
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.pdb
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\bin\Debug\pruebamysql.exe.config
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\bin\Debug\pruebamysql.exe
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\bin\Debug\pruebamysql.pdb
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\bin\Debug\MySql.Data.dll
+C:\Users\mike\Desktop\ABD_GESTOR_ESP\pruebaactual\pruebamysql\obj\x86\Debug\pruebamysql.csproj.CopyComplete
